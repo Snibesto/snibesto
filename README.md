@@ -33,6 +33,9 @@ Welcome to my GitHub profile! 🚀 I'm a passionate developer who loves coding, 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snibesto&show_icons=true&theme=dark&border_radius=8" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snibesto&layout=compact&theme=dark&border_radius=8" />
 </p>
 
