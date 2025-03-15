@@ -32,15 +32,15 @@ Welcome to my GitHub profile! 🚀 I'm a passionate developer who loves coding, 
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snibesto&show_icons=true&theme=tokyonight&border_radius=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snibesto&show_icons=true&theme=cobalt&border_radius=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snibesto&theme=tokyonight&border_radius=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snibesto&theme=cobalt&border_radius=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snibesto&layout=compact&theme=tokyonight&border_radius=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snibesto&layout=compact&theme=cobalt&border_radius=8" />
 </p>
 
 ---
