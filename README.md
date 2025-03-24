@@ -1,6 +1,4 @@
-### Hi there, I'm Snibesto! 👋
-
-Welcome to my GitHub profile! 🚀 I'm a passionate developer who loves coding, tech, and making fun projects. 
+### Without Javascript I am useless... 🤣
 
 ---
 
